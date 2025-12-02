@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End e Analista de Dados`**
 
-Me chamo Vitor Viana Carneiro Deroldo, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Me interesso muito por tecnologia e não sou apenas mais um na área.
+Me chamo Vitor Viana Carneiro Deroldo, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Me interesso em crescer na área de dados e back-end.
 
 <p align="left">
     <a href="https://github.com/vderoldo7?tab=repositories&sort=stargazers">
